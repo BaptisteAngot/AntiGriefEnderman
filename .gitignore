@@ -1,0 +1,26 @@
+# Dossiers
+.idea/
+out/
+build/
+target/
+
+# Fichiers spécifiques à IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Fichiers de sauvegarde
+*~
+*.swp
+*.bak
+
+# Fichiers de configuration IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Fichiers de compilation
+*.class
+*.jar
